@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 网络上的我
 
-  ![Image](/css/weibo.png) [Link](//weibo.com/clon07) 
+  ![Image](/css/weibo.png) [@clon07](//weibo.com/clon07) 
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](//weibo.com/clon07) and ![Image](src)
+[@clon07](//weibo.com/clon07) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
