@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   ![Image](/css/weibo.png) [@clon07](https://weibo.com/clon07)
   
   
-  <img src="/css/db.png"/> [clon07](https://www.douban.com/people/clon07/) 
+  ![Image](/css/db.png) [clon07](https://www.douban.com/people/clon07/) 
   
 
 
