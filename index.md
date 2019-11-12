@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### 网络上的我
 
-  ![Image](/css/Sina_Weibo_Logo_RGB_En.png)
+  ![Image](/css/weibo.png)
 
 ```markdown
 Syntax highlighted code block
