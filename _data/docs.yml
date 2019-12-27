@@ -1,0 +1,15 @@
+- title: 录播姬使用文档
+  docs:
+  - home
+  - storage
+  - clip
+  - flvprocess
+  - server
+#  - themes
+#  - customization
+#
+#- title: Examples
+#  docs:
+#  - cheatsheet
+#  - font-awesome
+#  - bootstrap
